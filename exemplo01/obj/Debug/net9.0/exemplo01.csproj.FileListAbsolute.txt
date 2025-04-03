@@ -1,0 +1,15 @@
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\bin\Debug\net9.0\exemplo01.exe
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\bin\Debug\net9.0\exemplo01.deps.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\bin\Debug\net9.0\exemplo01.runtimeconfig.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\bin\Debug\net9.0\exemplo01.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\bin\Debug\net9.0\exemplo01.pdb
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.sourcelink.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\refint\exemplo01.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.pdb
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\exemplo01.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo01\obj\Debug\net9.0\ref\exemplo01.dll

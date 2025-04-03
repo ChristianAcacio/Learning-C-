@@ -1,0 +1,15 @@
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\bin\Debug\net9.0\exemplo03.exe
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\bin\Debug\net9.0\exemplo03.deps.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\bin\Debug\net9.0\exemplo03.runtimeconfig.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\bin\Debug\net9.0\exemplo03.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\bin\Debug\net9.0\exemplo03.pdb
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.sourcelink.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\refint\exemplo03.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.pdb
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\exemplo03.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo03\obj\Debug\net9.0\ref\exemplo03.dll
