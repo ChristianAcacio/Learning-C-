@@ -1,12 +1,7 @@
 ﻿using exemplo03.moldels;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Carlos";
-p1.Sobrenome = "Alberto";
-
-Pessoa p2 = new Pessoa();
-p2.Nome = "Alberto";
-p2.Sobrenome = "Carlos";
+Pessoa p1 = new Pessoa("Carlos", "Alberto");
+Pessoa p2 = new Pessoa("Alberto", "Carlos");
 
 Curso Ingles = new Curso();
 Ingles.Nome = "Curso de Inglês";

@@ -1,0 +1,15 @@
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.sourcelink.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\bin\Debug\net9.0\exemplo04.exe
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\bin\Debug\net9.0\exemplo04.deps.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\bin\Debug\net9.0\exemplo04.runtimeconfig.json
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\bin\Debug\net9.0\exemplo04.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\bin\Debug\net9.0\exemplo04.pdb
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\refint\exemplo04.dll
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.pdb
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\exemplo04.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Programação\Estudos\c#\exemplo04\obj\Debug\net9.0\ref\exemplo04.dll

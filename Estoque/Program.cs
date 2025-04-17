@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Armazenamento.Models;
+
+Estoque obj1 = new Estoque("Azeite", 20, 2);
+
+Estoque.
+obj1.Exibir();
+

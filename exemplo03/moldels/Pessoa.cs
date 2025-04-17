@@ -12,6 +12,12 @@ namespace exemplo03.moldels
         public Pessoa(){
 
         }
+
+        //Construtor exigindo parametro
+        public Pessoa(string NomeParametro, string SobrenomeParametro){
+            Nome = NomeParametro;
+            Sobrenome = SobrenomeParametro;
+        }
         
 
         //Modo de guardar um nome de forma segura
